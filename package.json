@@ -13,8 +13,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@pqina/pintura": "^8.57.12",
-    "@pqina/react-native-pintura": "^9.0.0",
+    "@pqina/pintura": "^8.x",
+    "@pqina/react-native-pintura": "9.2.0",
     "@types/react": "~18.0.0",
     "@types/react-native": "~0.69.1",
     "expo": "~46.0.16",
